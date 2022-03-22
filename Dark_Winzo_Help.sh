@@ -558,7 +558,7 @@ elif [ "$help" = no ];
 then
 echo -e "
              Ok When ever need Help Ask here...
-   Or If you have any other problem to ask then ask in the group.
+   Or If you have any other problem to ask then ask in the DarkWinzo.
 
  "
 break
